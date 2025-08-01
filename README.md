@@ -1,3 +1,16 @@
+
+
+# Splunk Universal Forwarder Configuration Templates
+
+![Template Only](https://img.shields.io/badge/CONFIGURATION-TEMPLATE--ONLY-blue?style=flat-square&logo=splunk)
+
+> ⚠️ **Disclaimer**
+>
+> This repository contains **template configurations** for educational and demonstration purposes only.  
+> No real IP addresses, hostnames, or production infrastructure details are included.  
+> Please replace placeholders (e.g., `your.deployment.server`, `UF-HOSTNAME`) with your own values before using in a live environment.
+
+
 # Splunk + Wazuh + Elastic Stack Integration Guide
 
 This repository documents the integration of Splunk Enterprise with the Wazuh security platform and the Elastic Stack to create a hybrid visibility and detection architecture. This setup enables real-time monitoring of Windows event logs, advanced rule-based alerting, and correlation with MITRE ATT&CK tactics.
